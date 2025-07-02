@@ -2,20 +2,20 @@
 
 Este repositório contém os códigos e notebooks que desenvolvi durante o curso **"Python 3 do básico ao avançado - com projetos reais"** da Udemy.
 
-💡 **Objetivo:** Documentar e praticar os conceitos estudados no curso, do básico ao avançado.
+💡 **Objetivo:** Documentar e praticar os conceitos estudados no curso, do básico ao avançado, incluindo projetos reais desenvolvidos ao longo das aulas.
 
 ---
 
 ## 🎓 **Sobre o curso**
 - **Plataforma:** Udemy
-- **Instrutor:** Luiz Otávio Miranda / Tales Calogi Malaquias
+- **Instrutores:** Luiz Otávio Miranda / Tales Calogi Malaquias
 - **Carga horária:** 141 horas
 - **Última atualização do curso:** Fevereiro de 2025
-- **Conteúdo:** Python 3 básico, intermediário e avançado, com projetos reais.
+- **Conteúdo:** Python 3 básico, intermediário e avançado + projetos práticos
 
 ---
 
-## 📂 **Arquivos no repositório**
+## 📂 **Arquivos no repositório até agora**
 | Arquivo | Descrição |
 |----------|------------|
 | `logicaProgramação.ipynb` | Primeiros conceitos de lógica de programação em Python |
@@ -29,25 +29,25 @@ Este repositório contém os códigos e notebooks que desenvolvi durante o curso
 
 ---
 
+## 🚀 **O que virá a seguir**
+✨ Projetos com Programação Orientada a Objetos (POO)  
+✨ Projetos com Django (sites e APIs)  
+✨ Projetos com PySide6 (interfaces gráficas)  
+✨ Web scraping com Selenium  
+✨ Testes automatizados (TDD)  
+✨ Uso de SQL (MySQL, SQLite)  
+✨ Expressões Regulares (Regex)  
+✨ Deploy no Google Cloud com Linux + SSH  
+
+*(Este README será atualizado conforme novos conteúdos forem adicionados)*  
+
+---
+
 ## 💻 **Como visualizar**
-✅ Os notebooks foram criados no **Google Colab** e podem ser abertos diretamente no navegador:  
+✅ Os notebooks foram criados no **Google Colab**.  
+✅ Para abrir no navegador:  
 [Google Colab](https://colab.research.google.com/) → **Abrir no GitHub** → Cole o link do repositório.
 
 ---
 
-## 🚀 **Próximos passos**
-- Adicionar novos projetos (POO, Django, Selenium, PySide6)
-- Criar arquivo `requirements.txt` para dependências
-- Organizar os arquivos em pastas por tema (ex.: `logica_basica/`, `poo/`, `projetos/`)
 
----
-
-## 🌟 **Contato**
-Fique à vontade para entrar em contato para trocar ideias sobre o curso ou Python em geral:
-- [Seu LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-- [Seu e-mail](mailto:seuemail@exemplo.com)
-
----
-
-## 📃 **Certificação**
-📌 Ao final do curso, o certificado será adicionado aqui no repositório.
